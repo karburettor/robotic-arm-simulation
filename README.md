@@ -2,6 +2,9 @@
 
 A comparative implementation of a 2-Link Robotic Arm simulation using **Inverse Kinematics (IK)**. This project demonstrates the engineering workflow of prototyping complex logic in **Python** before porting to **C++** for real-time performance.
 
+![Robot Arm Simulation C++ Demo](assets/DemoCpp.gif)
+![Robot Arm Simulation Python Demo](assets/DemoPy.gif)
+
 ## 🚀 Features
 * **Dual Implementation:**
     * **Python (Pygame):** Rapid prototyping of the IK math.
